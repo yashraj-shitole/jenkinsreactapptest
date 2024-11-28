@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h1 style={{color:'red'}}>HELLO CODE CHANGED</h1>
      <p> THIS IS PARAGRAPH </p>
+     <div>Hi</div>
     </div>
   );
 }
